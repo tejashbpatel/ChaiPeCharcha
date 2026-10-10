@@ -46,8 +46,7 @@ Beta builds expire after 90 days; a newer build is uploaded regularly.
 Found a bug or have an idea? Use TestFlight's **Send Beta Feedback**, or email **tejash.apps@gmail.com**.
 
 ## Privacy
-
-Your privacy matters. Details will be linked here once the policy is published.
+Your privacy matters. Details will be linked here once the policy is published.](https://tejashbpatel.github.io/ChaiPeCharcha/)
 
 ## License
 # ChaiPeCharcha
